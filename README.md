@@ -42,14 +42,18 @@ Glavne karakteristike:
 
 Pratite ove korake da pokrenete projekt lokalno:
 
+```sh
 npm install
-
+```
+```sh
 npm start
-
+```
+```sh
 npm run build
-
+```
+```sh
 npm run deploy
-
+```
 
 
 Kontakt
