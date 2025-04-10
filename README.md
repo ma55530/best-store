@@ -125,7 +125,7 @@ Check if Node.js is installed:
 node --version
 ```
 
-If you see a version number, Node.js is already installed. If not, download it from [Node.js službene stranice](https://nodejs.org/) and install it.
+If you see a version number, Node.js is already installed. If not, download it from the [official Node.js website](https://nodejs.org/) and install it.
 
 #### Step 2: Create a New React Application
 
