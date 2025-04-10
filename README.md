@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ma55530/best-store">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best Store</h3>
@@ -186,11 +186,6 @@ Project Link: [https://github.com/ma55530/best-store](https://github.com/ma55530
 ## Acknowledgments
 
 * [Udemy - Build Complete E-Commerce React Application](https://www.udemy.com/course/build-complete-react-application/?couponCode=ST13MT80425G1)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
@@ -209,5 +204,5 @@ Project Link: [https://github.com/ma55530/best-store](https://github.com/ma55530
 [license-shield]: https://img.shields.io/github/license/ma55530/best-store.svg?style=for-the-badge
 [license-url]: https://github.com/ma55530/best-store/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your_linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/matija-akrap-0837ab176/
 [product-screenshot]: public/images/screenshot.png
