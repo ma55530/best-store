@@ -73,8 +73,9 @@ Main features:
 
 * [React](https://reactjs.org/)
 * [React Router](https://reactrouter.com/)
-* [React Icons](https://react-icons.github.io/react-icons/)
-* [CSS Modules](https://github.com/css-modules/css-modules)
+* [Node.js](https://nodejs.org/en)
+* [JSON Server](https://react-icons.github.io/react-icons/)
+* [Bootstrap](https://getbootstrap.com/)
 * [GitHub Pages](https://pages.github.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,13 +190,13 @@ In another terminal (from the main directory of the app):
 npm start
 ```
 
-Now you can communicate with the JSON server using the function fetch, ex. `fetch("http://localhost:3000/products")`.
+Now you can communicate with the JSON server using the fetch function, ex. `fetch("http://localhost:3000/products")`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
-Visit [https://ma55530.github.io/best-store/](https://ma55530.github.io/best-store/) to see the live demo of the appaplikacij.
+Visit [https://ma55530.github.io/best-store/](https://ma55530.github.io/best-store/) to see the live demo of the app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +208,7 @@ See [open issues](https://github.com/ma55530/best-store/issues) for a list of su
 
 ## Additional Resources
 
--  [json-server-auth](https://www.npmjs.com/package/json-server-auth?activeTab=readme): Koristan dodatak za autentikaciju korisnika u JSON Server okruženju.
+-  [json-server-auth](https://www.npmjs.com/package/json-server-auth?activeTab=readme): Middleware layer for JWT-based authentication and role-based access control.
 -  [multer](https://www.npmjs.com/package/multer): Middleware for handling `multipart/form-data` which is used to upload files in Express applications.
 
 ## Contribute
