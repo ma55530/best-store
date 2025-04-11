@@ -82,7 +82,7 @@ Main features:
 
 ## Getting Started
 
-Follow these steps to run the project locally.
+Follow these steps to run your own project locally.
 
 ### Prerequisites
 
@@ -93,23 +93,19 @@ Follow these steps to run the project locally.
 
 ### Installation
 
-1.  Clone the repository
-    ```sh
-    git clone https://github.com/ma55530/best-store.git
-    ```
-2.  Install NPM packages
+1.  Install NPM packages
     ```sh
     npm install
     ```
-3.  Start the server
+2.  Start the server
     ```sh
     npm start
     ```
-4.  Create a build directory with a production build of your app
+3.  Create a build directory with a production build of your app
     ```sh
     npm run build
     ```
-5. Deploy the site
+4. Deploy the site
     ```sh
     npm run deploy
     ```
