@@ -249,7 +249,6 @@ Project Link: [https://github.com/ma55530/best-store](https://github.com/ma55530
 
 * [Udemy - Build Complete E-Commerce React Application](https://www.udemy.com/course/build-complete-react-application/?couponCode=ST13MT80425G1)
 * [GitHub Pages](https://pages.github.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
