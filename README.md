@@ -7,6 +7,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
+<h5>OLD VERSION</h5>
+<p>New version has been migrated to https://best-store-src.vercel.app/#/</p>
 <div align="center">
   <a href="https://github.com/ma55530/best-store">
     <img src="images/screenshot.png" alt="Logo" width="600">
